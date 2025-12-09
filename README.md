@@ -217,8 +217,3 @@ python -c "from transformers import AutoTokenizer, AutoModelForCausalLM; AutoTok
 4. ✅ Generate your first asset!
 5. ✅ Integrate with your game
 
----
-
-**Built with ❤️ for game developers**
-
-**Version:** 1.0.0 | **Status:** Active | **Updated:** Jan 2025
